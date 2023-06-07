@@ -22,26 +22,9 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-![Desktop Design](./desing/desktop-design.jpg)
-
-### Links
-
-- Solution URL: [GitHub](https://github.com/CodinGitHub/FrontendMentor-Challenge-7)
-- Live Site URL: [Vercel](https://frontend-mentor-challenge-7.vercel.app/)
-
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-## Author
-
-- Website - [David Ruiz](https://coding-tube.com/)
-- Frontend Mentor - [@CodinGitHub](https://www.frontendmentor.io/profile/CodinGitHub)
-- Twitter - [@CodingTube](https://twitter.com/CodingTube)
